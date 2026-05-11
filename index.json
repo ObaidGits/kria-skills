@@ -7,8 +7,11 @@
     "trust_tier": "community",
     "version": "1.0.0",
     "manifest_url": "https://raw.githubusercontent.com/ObaidGits/kria-skills/main/skills/oc_code_sandbox/SKILL.md",
-    "capabilities_summary": [
-      "subprocess execution"
-    ]
+    "capabilities": {
+      "network": false,
+      "filesystem_read": false,
+      "filesystem_write": false,
+      "subprocess": true
+    }
   }
 ]
