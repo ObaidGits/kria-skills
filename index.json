@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "oc_code_sandbox",
+    "name": "Code Sandbox",
+    "description": "Executes Python snippets in an isolated container and returns stdout.",
+    "category": "developer",
+    "trust_tier": "community",
+    "version": "1.0.0",
+    "manifest_url": "https://raw.githubusercontent.com/ObaidGits/kria-skills/main/skills/oc_code_sandbox/SKILL.md",
+    "capabilities_summary": [
+      "subprocess execution"
+    ]
+  }
+]
